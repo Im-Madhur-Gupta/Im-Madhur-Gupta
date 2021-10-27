@@ -1,5 +1,8 @@
-### Hi there 👋
+### Namaste and Ciao. Im Madhur. 🙏👋🏼
 
+[![Madhur's github stats](https://github-readme-stats.vercel.app/api?username=Im-Madhur-Gupta&count_private=true&show_icons=true&theme=nord&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Madhur-Gupta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Im-Madhur-Gupta/Im-Madhur-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
