@@ -1,19 +1,32 @@
-### Namaste and Ciao. Im Madhur. 🙏👋🏼
+# Namaste and Ciao. Im Madhur. 🙏👋🏼
 
-[![Madhur's github stats](https://github-readme-stats.vercel.app/api?username=Im-Madhur-Gupta&count_private=true&show_icons=true&theme=nord&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Madhur's github stats](https://github-readme-stats.vercel.app/api?username=Im-Madhur-Gupta&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Madhur-Gupta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Im-Madhur-Gupta/Im-Madhur-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* I'm a CSE undergrad 2024 @IIITVadodara.
+* ### Three things that I love to do are:
+  * **Cooking** 👨‍🍳🍕
+  * **Programming**, can code in **C, Java, Python and Javascript**. 😇
+  * **Playing Football**, CR7 all the way. ⚽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ### My Life Mantra:
+```javascript
+const lifeMantra = () => {
+  console.log("."); // a fullstop :)
+  let understood = false; // just in case
+  if (!understood) {
+    console.log("My words don't matter, my actions do.");
+  }
+};
+```
+
+* I am passionate about web dev, 😊 particularly about the **MERN stack**.
+* I’m currently learning **React** and also a little about backend systems.
+* I’m looking to collaborate on MERN stack based projects.
+
+* ### How to reach me:
+  * [LinkedIn](https://www.linkedin.com/in/madhur-gupta-07408320b/ "LinkedIn")
+  * [Twitter](https://twitter.com/Mg6421 "Twitter")
+
+# See ya!
+![seeya](https://user-images.githubusercontent.com/76112446/139240376-e4357c95-165e-4f32-bd6d-9e53cf5c13f1.gif)
