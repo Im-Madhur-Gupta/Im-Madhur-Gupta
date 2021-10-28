@@ -1,4 +1,4 @@
-# Namaste and Ciao. Im Madhur. 🙏👋🏼
+# Namaste and Ciao. Im Madhur. 🙏👋🏼 &nbsp; ![](https://komarev.com/ghpvc/?username=Im-Madhur-Gupta&color=6b0000&label=Views)
 
 [![Madhur's github stats](https://github-readme-stats.vercel.app/api?username=Im-Madhur-Gupta&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Madhur-Gupta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,7 +20,7 @@ const lifeMantra = () => {
 };
 ```
 
-* I am passionate about web dev, 😊 particularly about the **MERN stack**.
+* I am passionate about **Web Dev**, 😊 particularly about the **MERN stack**.
 * I’m currently learning **React** and also a little about backend systems.
 * I’m looking to collaborate on MERN stack based projects.
 
