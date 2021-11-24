@@ -21,7 +21,7 @@ const lifeMantra = () => {
 ```
 
 * I am passionate about **Web Dev**, 😊 particularly about the **MERN stack**.
-* I’m currently learning **React**.
+* I’m currently learning **React** and exploring **Data Science and Machine Learning**.
 * I’m looking to collaborate on MERN stack based projects.
 
 * ### How to reach me:
