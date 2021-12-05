@@ -1,7 +1,7 @@
 # Namaste and Ciao. Im Madhur. :pray::wave: &nbsp; ![](https://komarev.com/ghpvc/?username=Im-Madhur-Gupta&color=6b0000&label=Views)
 
 [![Madhur's github stats](https://github-readme-stats.vercel.app/api?username=Im-Madhur-Gupta&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Madhur-Gupta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Madhur-Gupta&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 * I'm a CSE undergrad 2024 @IIITVadodara.
 * ### Three things that I love to do are:
