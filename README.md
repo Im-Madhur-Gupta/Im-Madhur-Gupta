@@ -22,7 +22,7 @@ const lifeMantra = () => {
 
 * I am passionate about **Web Dev**, 😊 particularly about the **MERN stack**.
 * I’m currently learning **React** and exploring **Data Analytics**.
-* I’m looking to collaborate on MERN stack based projects.
+* I’m looking to collaborate on **MERN stack** based projects.
 
 * ### How to reach me:
   * [LinkedIn](https://www.linkedin.com/in/madhur-gupta-07408320b/ "LinkedIn")
