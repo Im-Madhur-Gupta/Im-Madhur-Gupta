@@ -1,9 +1,9 @@
-# Namaste and Ciao, Im Madhur. :pray::wave: &nbsp; ![](https://komarev.com/ghpvc/?username=Im-Madhur-Gupta&color=6b0000&label=Views)
+# Namaste and Ciao, I'm Madhur. :pray::wave: &nbsp; ![](https://komarev.com/ghpvc/?username=Im-Madhur-Gupta&color=6b0000&label=Views)
 
 [![Madhur's github stats](https://github-readme-stats.vercel.app/api?username=Im-Madhur-Gupta&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Madhur-Gupta&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
-* I'm a CSE Sophomore @IIITVadodara.
+* ### I'm a CSE Sophomore @IIITVadodara.
 * ### Three things that I love to do are:
   * **Cooking** 👨‍🍳🍕
   * **Programming**, can code in **C, Java, Python and Javascript**. 😇
@@ -20,9 +20,9 @@ const lifeMantra = () => {
 };
 ```
 
-* I am passionate about **Web Dev**, 😊 particularly about the **MERN stack**.
-* I’m currently learning **React** and exploring **Data Analytics**.
-* I’m looking to collaborate on **MERN stack** based projects.
+* ### I'm passionate about **Web Dev**, 😊 particularly about the **MERN stack**.
+* ### I have sound knowledge of **React**, currently I'm diving deeper into **NodeJS**.
+* ### I’m looking to collaborate on **MERN stack** based projects.
 
 * ### How to reach me:
   * [LinkedIn](https://www.linkedin.com/in/madhur-gupta-07408320b/ "LinkedIn")
