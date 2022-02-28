@@ -5,8 +5,8 @@
 
 * ### I'm a CSE Sophomore @IIITVadodara.
 * ### Three things that I love to do are:
-  * **Cooking** 👨‍🍳🍕
   * **Programming**, can code in **C, Java, Python and Javascript**. 😇
+  * **Cooking** 👨‍🍳🍕
   * **Playing Football**, CR7 all the way. ⚽
 
 * ### My Life Mantra:
