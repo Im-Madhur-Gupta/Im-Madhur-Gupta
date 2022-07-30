@@ -3,7 +3,7 @@
 [![Madhur's github stats](https://github-readme-stats.vercel.app/api?username=Im-Madhur-Gupta&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Madhur-Gupta&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
-* ### I'm a CSE Sophomore @IIITVadodara.
+* ### I'm a CSE pre-final student @ IIIT Vadodara.
 * ### Three things that I love to do are:
   * **Programming**, can code in **C, Java, Python and Javascript**. 😇
   * **Cooking** 👨‍🍳🍕
