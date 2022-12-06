@@ -27,7 +27,7 @@ const lifeMantra = () => {
 
 * ### How to reach me:
   * [LinkedIn](https://www.linkedin.com/in/madhur-gupta-07408320b/ "LinkedIn")
-  * [Twitter](https://twitter.com/Mg6421 "Twitter")
+  * [Twitter](https://twitter.com/Im_Madhur_Gupta "Twitter")
 
 # See ya!
 ![seeya](https://user-images.githubusercontent.com/76112446/139240376-e4357c95-165e-4f32-bd6d-9e53cf5c13f1.gif)
