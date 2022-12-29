@@ -5,7 +5,7 @@
 
 * ### I'm a CSE pre-final student @ IIIT Vadodara.
 * ### Three things that I love to do are:
-  * **Programming**, can code in **C, Java, Python and Javascript**. 😇
+  * **Programming**, can efficiently code in **Javascript/Typescript, Java and Python**. 😇
   * **Cooking** 👨‍🍳🍕
   * **Playing Football**, CR7 all the way. ⚽
 
