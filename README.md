@@ -20,10 +20,10 @@ const lifeMantra = () => {
 };
 ```
 
-* ### I'm passionate about **Web Dev**, 😊 particularly about the **MERN stack**.
-* ### I have sound knowledge of **ReactJS** and **NodeJS**.
-* ### Currently, I am diving into the world of web3. 🤩
-* ### I’m looking to collaborate on **MERN stack** based projects.
+* ### I'm passionate about web dev, 😊 particularly about the MERN stack.
+* ### I have sound knowledge of ReactJS and NodeJS. 👨‍💻
+* ### I'm exploring the web3 universe, immersing myself in Ethereum with Alchemy University. 🤩
+* ### I'm on the hunt for exciting web3 projects to team up on!  🤝
 
 * ### How to reach me:
   * [LinkedIn](https://www.linkedin.com/in/madhur-gupta-07408320b/ "LinkedIn")
