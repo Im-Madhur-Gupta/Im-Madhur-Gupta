@@ -1,8 +1,5 @@
 # Namaste and Ciao, I'm Madhur. :pray::wave: &nbsp; ![](https://komarev.com/ghpvc/?username=Im-Madhur-Gupta&color=6b0000&label=Views)
 
-[![Madhur's github stats](https://github-readme-stats.vercel.app/api?username=Im-Madhur-Gupta&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Madhur-Gupta&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-
 ## About Me
 - 🚀 Full-stack developer passionate about web development and blockchain technology.
 - 🏆 Hackathon enthusiast with wins at [ETH India](https://devfolio.co/projects/pixel-police-a4c5), [ETH Online](https://ethglobal.com/showcase/sherlocked-0ux91), [FVM Space Warp](https://ethglobal.com/showcase/zkaggle-70g3b), and [SIH 2022](https://github.com/Shishya-App/shishya-frontend-admin).
